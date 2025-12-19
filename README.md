@@ -1,4 +1,4 @@
-# 🎮 Hand Gesture Volume Control using Computer Vision
+#  Hand Gesture Volume Control using Computer Vision
 
 Control your system volume using hand gestures captured through a webcam.
 This project uses MediaPipe, OpenCV, and PyCaw to track finger distance
@@ -6,7 +6,7 @@ and map it to system audio volume in real time.
 
 ---
 
-## 🚀 Features
+##  Features
 - Real-time hand tracking using MediaPipe
 - Volume control via thumb–index finger distance
 - Smooth volume adjustment
@@ -15,7 +15,7 @@ and map it to system audio volume in real time.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python 3.10
 - OpenCV
 - MediaPipe
@@ -25,7 +25,7 @@ and map it to system audio volume in real time.
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### 1. Clone the repository
 ```bash
